@@ -1,3 +1,5 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# @hishprorg/labore-velit
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+[![npm](https://img.shields.io/npm/v/@hishprorg/labore-velit.svg?style=flat-square)](https://www.npmjs.com/package/@hishprorg/labore-velit)
+
+Takiyon's shared `eslint.config.js`.
